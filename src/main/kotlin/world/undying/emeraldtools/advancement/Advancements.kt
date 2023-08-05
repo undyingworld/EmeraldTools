@@ -26,14 +26,14 @@ private val ROOT = advancement(EmeraldTools, "root") {
 
 private val OBTAIN_ANY_EMERALD_TOOL = obtainNovaItemsAdvancement(
     EmeraldTools, "any_tool", ROOT, listOf(
-        Items.EMERALD_HOE, Items.EMERALD_AXE, Items.EMERALD_SWORD,
-        Items.EMERALD_PICKAXE, Items.EMERALD_SHOVEL
+        Items.EMERALD_PICKAXE, Items.EMERALD_HOE, Items.EMERALD_AXE,
+        Items.EMERALD_SWORD, Items.EMERALD_SHOVEL
     ), false
 )
 
 private val OBTAIN_ALL_EMERALD_TOOLS = obtainNovaItemsAdvancement(
     EmeraldTools, "all_tools", OBTAIN_ANY_EMERALD_TOOL, listOf(
-        Items.EMERALD_HOE, Items.EMERALD_AXE, Items.EMERALD_SWORD,
+        Items.EMERALD_SWORD, Items.EMERALD_HOE, Items.EMERALD_AXE,
         Items.EMERALD_PICKAXE, Items.EMERALD_SHOVEL
     ), true
 )
@@ -58,7 +58,7 @@ object Advancements {
     @InitFun
     fun register() {
         AdvancementLoader.registerAdvancements(
-            ROOT, OBTAIN_ANY_EMERALD_TOOL, OBTAIN_ALL_EMERALD_TOOLS
+            ROOT, OBTAIN_ANY_EMERALD_TOOL, OBTAIN_ALL_EMERALD_TOOLS, OBTAIN_ALL_EMERALD_ARMOR, OBTAIN_ANY_EMERALD_ARMOR
         )
     }
 

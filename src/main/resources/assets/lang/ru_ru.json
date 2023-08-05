@@ -15,8 +15,8 @@
   "advancement.emeraldtools.all_armor.description": "Получите полный набор изумрудной брони",
   "advancement.emeraldtools.any_armor.title": "Путь к славе",
   "advancement.emeraldtools.any_armor.description": "Получите часть набора изумрудной брони",
-  "advancement.emeraldtools.all_tool.title": "Герой деревни",
-  "advancement.emeraldtools.all_tool.description": "Получите все изумрудные инструменты",
+  "advancement.emeraldtools.all_tools.title": "Герой деревни",
+  "advancement.emeraldtools.all_tools.description": "Получите все изумрудные инструменты",
   "advancement.emeraldtools.any_tool.title": "Вы возбудили жителя",
   "advancement.emeraldtools.any_tool.description": "Создайте первый изумрудный инструмент",
   "subtitles.emeraldtools.item.armor.equip_emerald": "Изумрудная броня звенит"
