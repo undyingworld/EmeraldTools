@@ -1,0 +1,13 @@
+{
+  "category": "equipment",
+  "result": "emeraldtools:emerald_sword",
+  "shape": [
+    ".e.",
+    ".e.",
+    ".s."
+  ],
+  "ingredients": {
+    "e": "machines:emerald",
+    "s": "minecraft:stick"
+  }
+}

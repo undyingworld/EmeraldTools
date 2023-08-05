@@ -1,0 +1,10 @@
+emeraldtools:
+  icon: emeraldtools:emerald_pickaxe
+  name: "menu.emeraldtools.items.category.equipment"
+  priority: 4
+  items:
+    - emeraldtools:emerald_pickaxe
+    - emeraldtools:emerald_axe
+    - emeraldtools:emerald_sword
+    - emeraldtools:emerald_hoe
+    - emeraldtools:emerald_shovel

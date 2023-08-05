@@ -1,0 +1,14 @@
+{
+  "menu.emeraldtools.items.category.equipment": "Equipment",
+  "item.emeraldtools.emerald_axe": "Emerald Axe",
+  "item.emeraldtools.emerald_pickaxe": "Emerald Pickaxe",
+  "item.emeraldtools.emerald_sword": "Emerald Sword",
+  "item.emeraldtools.emerald_hoe": "Emerald Hoe",
+  "item.emeraldtools.emerald_shovel": "Emerald Shovel",
+  "advancement.emeraldtools.root.title": "Emerald Tools",
+  "advancement.emeraldtools.root.description": "Villagers are going to love it!",
+  "advancement.emeraldtools.all_tools.title": "The first dude in the village",
+  "advancement.emeraldtools.all_tools.description": "Obtain all emerald tools",
+  "advancement.emeraldtools.any_tool.title": "Is this even legal?",
+  "advancement.emeraldtools.any_tool.description": "Obtain your first emerald tool"
+}

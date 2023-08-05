@@ -1,10 +1,10 @@
-package com.example
+package world.undying.emeraldtools
 
 import xyz.xenondevs.nova.addon.Addon
 
-object ExampleAddon : Addon() {
+object EmeraldTools : Addon() {
     
-    override fun init() {
+    /*override fun init() {
         // Called when the addon is initialized.
     }
     
@@ -14,6 +14,6 @@ object ExampleAddon : Addon() {
     
     override fun onDisable() {
         // Called when the addon is disabled.
-    }
-    
+    }*/
+
 }

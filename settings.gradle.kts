@@ -1,4 +1,4 @@
-rootProject.name = "example" // TODO: Change this to your addon id
+rootProject.name = "emeraldtools" // TODO: Change this to your addon id
 
 dependencyResolutionManagement {
     repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)

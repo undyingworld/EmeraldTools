@@ -1,0 +1,14 @@
+{
+  "menu.emeraldtools.items.category.equipment": "Инструменты",
+  "item.emeraldtools.emerald_axe": "Изумрудный Топор",
+  "item.emeraldtools.emerald_pickaxe": "Изумрудная Кирка",
+  "item.emeraldtools.emerald_sword": "Изумрудный Меч",
+  "item.emeraldtools.emerald_hoe": "Изумрудная Мотыга",
+  "item.emeraldtools.emerald_shovel": "Изумрудная Лопата",
+  "advancement.emeraldtools.root.title": "Изумрудные Предметы",
+  "advancement.emeraldtools.root.description": "Жители будут без ума",
+  "advancement.emeraldtools.all_tools.title": "Первый парень на деревне",
+  "advancement.emeraldtools.all_tools.description": "Получите все изумрудные инструменты",
+  "advancement.emeraldtools.any_tool.title": "Это вообще законно?",
+  "advancement.emeraldtools.any_tool.description": "Создайте первый изумрудный инструмент"
+}

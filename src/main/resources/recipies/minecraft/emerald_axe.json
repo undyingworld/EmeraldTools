@@ -1,0 +1,13 @@
+{
+  "category": "equipment",
+  "result": "emeraldtools:emerald_axe",
+  "shape": [
+    "ee.",
+    "es.",
+    ".s."
+  ],
+  "ingredients": {
+    "e": "machines:emerald",
+    "s": "minecraft:stick"
+  }
+}
