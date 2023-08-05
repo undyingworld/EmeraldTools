@@ -1,5 +1,9 @@
-# Nova-Addon-Template
-Template for creating Nova addons
+# Emerald Tools
+This addon adds emerald items to the game.  
+It was primarily made for testing nova's capabilities.  
 
-# Create your own Nova addon
-Visit [our documentation](https://xenondevs.xyz/docs/nova/addon/) for a guide on how to create Nova addons
+# Features
+ - [x] Tools (Axe, Pickaxe, Sword, Shovel, Hoe)
+ - [x] Recipes
+ - [x] Natural generation (in villages, mansions and dungeons)
+ - [ ] Armor

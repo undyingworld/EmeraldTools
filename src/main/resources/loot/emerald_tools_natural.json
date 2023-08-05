@@ -1,0 +1,36 @@
+{
+  "items": [
+    {
+      "item": "emeraldtools:emerald_pickaxe",
+      "chance": 10,
+      "amount": {
+        "min": 1,
+        "max": 1
+      }
+    },
+    {
+      "item": "emeraldtools:emerald_hoe",
+      "chance": 10,
+      "amount": {
+        "min": 1,
+        "max": 1
+      }
+    },
+    {
+      "item": "emeraldtools:emerald_shovel",
+      "chance": 10,
+      "amount": {
+        "min": 1,
+        "max": 1
+      }
+    }
+  ],
+  "whitelist": [
+    "chests/igloo_chest",
+    "chests/jungle_temple",
+    "chests/pillager_outpost",
+    "chests/woodland_mansion",
+    "chests/village/village_toolsmith",
+    "chests/abandoned_mineshaft"
+  ]
+}

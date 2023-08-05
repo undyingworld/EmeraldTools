@@ -32,7 +32,7 @@ private val OBTAIN_ANY_EMERALD_TOOL = obtainNovaItemsAdvancement(
 )
 
 private val OBTAIN_ALL_EMERALD_TOOLS = obtainNovaItemsAdvancement(
-    EmeraldTools, "all_tools", ROOT, listOf(
+    EmeraldTools, "all_tools", OBTAIN_ANY_EMERALD_TOOL, listOf(
         Items.EMERALD_HOE, Items.EMERALD_AXE, Items.EMERALD_SWORD,
         Items.EMERALD_PICKAXE, Items.EMERALD_SHOVEL
     ), true
