@@ -1,13 +1,13 @@
 {
   "category": "equipment",
-  "result": "emeraldtools:emerald_pickaxe",
+  "result": "emeraldtools:emerald_sword",
   "shape": [
-    "eee",
-    ".s.",
+    ".e.",
+    ".e.",
     ".s."
   ],
   "ingredients": {
-    "e": "machines:emerald",
+    "e": "minecraft:emerald",
     "s": "minecraft:stick"
   }
 }
