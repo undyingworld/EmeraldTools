@@ -1,8 +1,8 @@
 import org.gradle.configurationcache.extensions.capitalized
 import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
 
-group = "world.undying.emeraldtools" // TODO: Change this to your group
-version = "1.0.2" // TODO: Change this to your addon version
+group = "world.undying.emeraldtools"
+version = "1.0.3"
 
 val mojangMapped = project.hasProperty("mojang-mapped")
 
@@ -22,8 +22,8 @@ addon {
     name.set(project.name.capitalized())
     version.set(project.version.toString())
     novaVersion.set(libs.versions.nova)
-    main.set("world.undying.emeraldtools.EmeraldTools") // TODO: Change this to your main class
-    authors.add("the1mason") // TODO: Set your list of authors
+    main.set("world.undying.emeraldtools.EmeraldTools")
+    authors.add("the1mason")
 }
 
 spigotRemap {
