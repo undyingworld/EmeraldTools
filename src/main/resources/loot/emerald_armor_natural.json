@@ -1,0 +1,44 @@
+{
+  "items": [
+    {
+      "item": "emeraldtools:emerald_helmet",
+      "chance": 3,
+      "amount": {
+        "min": 1,
+        "max": 1
+      }
+    },
+    {
+      "item": "emeraldtools:emerald_chestplate",
+      "chance": 3,
+      "amount": {
+        "min": 1,
+        "max": 1
+      }
+    },
+    {
+      "item": "emeraldtools:emerald_leggings",
+      "chance": 3,
+      "amount": {
+        "min": 1,
+        "max": 1
+      }
+    },
+    {
+      "item": "emeraldtools:emerald_boots",
+      "chance": 3,
+      "amount": {
+        "min": 1,
+        "max": 1
+      }
+    }
+  ],
+  "whitelist": [
+    "chests/igloo_chest",
+    "chests/jungle_temple",
+    "chests/pillager_outpost",
+    "chests/woodland_mansion",
+    "chests/village/village_armorer",
+    "chests/abandoned_mineshaft"
+  ]
+}

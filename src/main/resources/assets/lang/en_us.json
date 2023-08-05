@@ -5,10 +5,19 @@
   "item.emeraldtools.emerald_sword": "Emerald Sword",
   "item.emeraldtools.emerald_hoe": "Emerald Hoe",
   "item.emeraldtools.emerald_shovel": "Emerald Shovel",
+  "item.emeraldtools.emerald_helmet": "Emerald Helmet",
+  "item.emeraldtools.emerald_chestplate": "Emerald Chestplate",
+  "item.emeraldtools.emerald_leggings": "Emerald Leggings",
+  "item.emeraldtools.emerald_boots": "Emerald Boots",
   "advancement.emeraldtools.root.title": "Emerald Tools",
   "advancement.emeraldtools.root.description": "Villagers are going to love it!",
-  "advancement.emeraldtools.all_tools.title": "The first dude in the village",
-  "advancement.emeraldtools.all_tools.description": "Obtain all emerald tools",
-  "advancement.emeraldtools.any_tool.title": "Is this even legal?",
-  "advancement.emeraldtools.any_tool.description": "Obtain your first emerald tool"
+  "advancement.emeraldtools.all_armor.title": "Sex bomb!",
+  "advancement.emeraldtools.all_armor.description": "Obtain a full set of emerald armor",
+  "advancement.emeraldtools.any_armor.title": "Path to fame",
+  "advancement.emeraldtools.any_armor.description": "Obtain your first armor",
+  "advancement.emeraldtools.all_tool.title": "Hero of the village",
+  "advancement.emeraldtools.all_tool.description": "Obtain all emerald items",
+  "advancement.emeraldtools.any_tool.title": "You have aroused the villager",
+  "advancement.emeraldtools.any_tool.description": "Obtain your first emerald tool",
+  "subtitles.emeraldtools.item.armor.equip_emerald": "Emerald armor clinks"
 }

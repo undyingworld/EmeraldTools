@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "item": "emeraldtools:emerald_helmet",
+      "chance": 10,
+      "amount": {
+        "min": 1,
+        "max": 1
+      }
+    },
+    {
+      "item": "emeraldtools:emerald_chestplate",
+      "chance": 10,
+      "amount": {
+        "min": 1,
+        "max": 1
+      }
+    },
+    {
+      "item": "emeraldtools:emerald_leggings",
+      "chance": 10,
+      "amount": {
+        "min": 1,
+        "max": 1
+      }
+    },
+    {
+      "item": "emeraldtools:emerald_boots",
+      "chance": 10,
+      "amount": {
+        "min": 1,
+        "max": 1
+      }
+    }
+  ],
+  "whitelist": [
+    "gameplay/hero_of_the_village/armorer_gift"
+  ]
+}

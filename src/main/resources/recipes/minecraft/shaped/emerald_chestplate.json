@@ -1,0 +1,12 @@
+{
+  "category": "equipment",
+  "result": "emeraldtools:emerald_chestplate",
+  "shape": [
+    "e.e",
+    "eee",
+    "eee"
+  ],
+  "ingredients": {
+    "e": "minecraft:emerald"
+  }
+}

@@ -8,3 +8,7 @@ emeraldtools:
     - emeraldtools:emerald_sword
     - emeraldtools:emerald_hoe
     - emeraldtools:emerald_shovel
+    - emeraldtools:emerald_helmet
+    - emeraldtools:emerald_chestplate
+    - emeraldtools:emerald_leggings
+    - emeraldtools:emerald_boots

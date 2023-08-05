@@ -3,5 +3,22 @@
   "emerald_sword": "item/emerald_sword",
   "emerald_shovel": "item/emerald_shovel",
   "emerald_hoe": "item/emerald_hoe",
-  "emerald_axe": "item/emerald_axe"
+  "emerald_axe": "item/emerald_axe",
+
+  "emerald_helmet": {
+    "item": "item/emerald_helmet",
+    "armor": "emerald"
+  },
+  "emerald_chestplate": {
+    "item": "item/emerald_chestplate",
+    "armor": "emerald"
+  },
+  "emerald_leggings": {
+    "item": "item/emerald_leggings",
+    "armor": "emerald"
+  },
+  "emerald_boots": {
+    "item": "item/emerald_boots",
+    "armor": "emerald"
+  }
 }

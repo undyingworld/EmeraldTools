@@ -37,6 +37,21 @@ private val OBTAIN_ALL_EMERALD_TOOLS = obtainNovaItemsAdvancement(
         Items.EMERALD_PICKAXE, Items.EMERALD_SHOVEL
     ), true
 )
+
+private val OBTAIN_ANY_EMERALD_ARMOR = obtainNovaItemsAdvancement(
+    EmeraldTools, "any_armor", ROOT, listOf(
+        Items.EMERALD_HELMET, Items.EMERALD_CHESTPLATE,
+        Items.EMERALD_BOOTS, Items.EMERALD_LEGGINGS
+    ), false
+)
+
+private val OBTAIN_ALL_EMERALD_ARMOR = obtainNovaItemsAdvancement(
+    EmeraldTools, "all_armor", OBTAIN_ANY_EMERALD_ARMOR, listOf(
+        Items.EMERALD_HELMET, Items.EMERALD_CHESTPLATE,
+        Items.EMERALD_BOOTS, Items.EMERALD_LEGGINGS
+    ), true
+)
+
 @Init
 object Advancements {
 

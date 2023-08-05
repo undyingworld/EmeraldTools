@@ -1,0 +1,12 @@
+{
+  "category": "equipment",
+  "result": "emeraldtools:emerald_boots",
+  "shape": [
+    "e.e",
+    "e.e",
+    "..."
+  ],
+  "ingredients": {
+    "e": "minecraft:emerald"
+  }
+}

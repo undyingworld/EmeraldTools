@@ -2,7 +2,7 @@ import org.gradle.configurationcache.extensions.capitalized
 import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
 
 group = "world.undying.emeraldtools"
-version = "1.0.3"
+version = "1.0.4"
 
 val mojangMapped = project.hasProperty("mojang-mapped")
 

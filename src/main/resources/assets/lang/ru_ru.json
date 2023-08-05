@@ -5,10 +5,19 @@
   "item.emeraldtools.emerald_sword": "Изумрудный Меч",
   "item.emeraldtools.emerald_hoe": "Изумрудная Мотыга",
   "item.emeraldtools.emerald_shovel": "Изумрудная Лопата",
+  "item.emeraldtools.emerald_helmet": "Изумрудный Шлем",
+  "item.emeraldtools.emerald_chestplate": "Изумрудный Нагрудник",
+  "item.emeraldtools.emerald_leggings": "Изумрудные Поножи",
+  "item.emeraldtools.emerald_boots": "Изумрудные Ботинки",
   "advancement.emeraldtools.root.title": "Изумрудные Предметы",
   "advancement.emeraldtools.root.description": "Жители будут без ума",
-  "advancement.emeraldtools.all_tools.title": "Первый парень на деревне",
-  "advancement.emeraldtools.all_tools.description": "Получите все изумрудные инструменты",
-  "advancement.emeraldtools.any_tool.title": "Это вообще законно?",
-  "advancement.emeraldtools.any_tool.description": "Создайте первый изумрудный инструмент"
+  "advancement.emeraldtools.all_armor.title": "Первый парень на деревне",
+  "advancement.emeraldtools.all_armor.description": "Получите полный набор изумрудной брони",
+  "advancement.emeraldtools.any_armor.title": "Путь к славе",
+  "advancement.emeraldtools.any_armor.description": "Получите часть набора изумрудной брони",
+  "advancement.emeraldtools.all_tool.title": "Герой деревни",
+  "advancement.emeraldtools.all_tool.description": "Получите все изумрудные инструменты",
+  "advancement.emeraldtools.any_tool.title": "Вы возбудили жителя",
+  "advancement.emeraldtools.any_tool.description": "Создайте первый изумрудный инструмент",
+  "subtitles.emeraldtools.item.armor.equip_emerald": "Изумрудная броня звенит"
 }

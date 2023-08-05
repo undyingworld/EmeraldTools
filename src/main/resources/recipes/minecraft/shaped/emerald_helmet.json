@@ -1,0 +1,12 @@
+{
+  "category": "equipment",
+  "result": "emeraldtools:emerald_helmet",
+  "shape": [
+    "eee",
+    "e.e",
+    "..."
+  ],
+  "ingredients": {
+    "e": "minecraft:emerald"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "emerald": {
+    "layer_1": "armor/emerald_layer_1",
+    "layer_1_emissivity_map": "armor/emerald_layer_1_emissivity_map",
+    "layer_2": "armor/emerald_layer_2",
+    "layer_2_emissivity_map": "armor/emerald_layer_2_emissivity_map"
+  }
+}
