@@ -1,0 +1,12 @@
+{
+  "category": "equipment",
+  "result": "emeraldtools:copper_helmet",
+  "shape": [
+    "eee",
+    "e.e",
+    "..."
+  ],
+  "ingredients": {
+    "e": "minecraft:copper_ingot"
+  }
+}

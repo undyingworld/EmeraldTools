@@ -1,0 +1,12 @@
+{
+  "category": "equipment",
+  "result": "emeraldtools:copper_leggings",
+  "shape": [
+    "eee",
+    "e.e",
+    "e.e"
+  ],
+  "ingredients": {
+    "e": "minecraft:copper_ingot"
+  }
+}

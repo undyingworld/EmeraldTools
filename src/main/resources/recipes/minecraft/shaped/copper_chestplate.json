@@ -1,0 +1,12 @@
+{
+  "category": "equipment",
+  "result": "emeraldtools:copper_chestplate",
+  "shape": [
+    "e.e",
+    "eee",
+    "eee"
+  ],
+  "ingredients": {
+    "e": "minecraft:copper_ingot"
+  }
+}

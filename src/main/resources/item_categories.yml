@@ -3,12 +3,24 @@ emeraldtools:
   name: "menu.emeraldtools.items.category.equipment"
   priority: 4
   items:
+    - emeraldtools:emerald_sword
     - emeraldtools:emerald_pickaxe
     - emeraldtools:emerald_axe
-    - emeraldtools:emerald_sword
-    - emeraldtools:emerald_hoe
     - emeraldtools:emerald_shovel
+    - emeraldtools:emerald_hoe
+
+    - emeraldtools:copper_sword
+    - emeraldtools:copper_pickaxe
+    - emeraldtools:copper_axe
+    - emeraldtools:copper_shovel
+    - emeraldtools:copper_hoe
+
     - emeraldtools:emerald_helmet
     - emeraldtools:emerald_chestplate
     - emeraldtools:emerald_leggings
     - emeraldtools:emerald_boots
+
+    - emeraldtools:copper_helmet
+    - emeraldtools:copper_chestplate
+    - emeraldtools:copper_leggings
+    - emeraldtools:copper_boots

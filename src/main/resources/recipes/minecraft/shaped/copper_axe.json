@@ -1,0 +1,13 @@
+{
+  "category": "equipment",
+  "result": "emeraldtools:copper_axe",
+  "shape": [
+    "ee.",
+    "es.",
+    ".s."
+  ],
+  "ingredients": {
+    "e": "minecraft:copper_ingot",
+    "s": "minecraft:stick"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "category": "equipment",
+  "result": "emeraldtools:copper_shovel",
+  "shape": [
+    ".e.",
+    ".s.",
+    ".s."
+  ],
+  "ingredients": {
+    "e": "minecraft:copper_ingot",
+    "s": "minecraft:stick"
+  }
+}

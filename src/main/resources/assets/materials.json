@@ -4,7 +4,11 @@
   "emerald_shovel": "item/emerald_shovel",
   "emerald_hoe": "item/emerald_hoe",
   "emerald_axe": "item/emerald_axe",
-
+  "copper_pickaxe": "item/copper_pickaxe",
+  "copper_sword": "item/copper_sword",
+  "copper_shovel": "item/copper_shovel",
+  "copper_hoe": "item/copper_hoe",
+  "copper_axe": "item/copper_axe",
   "emerald_helmet": {
     "item": "item/emerald_helmet",
     "armor": "emerald"
@@ -20,5 +24,21 @@
   "emerald_boots": {
     "item": "item/emerald_boots",
     "armor": "emerald"
+  },
+  "copper_helmet": {
+    "item": "item/copper_helmet",
+    "armor": "copper"
+  },
+  "copper_chestplate": {
+    "item": "item/copper_chestplate",
+    "armor": "copper"
+  },
+  "copper_leggings": {
+    "item": "item/copper_leggings",
+    "armor": "copper"
+  },
+  "copper_boots": {
+    "item": "item/copper_boots",
+    "armor": "copper"
   }
 }

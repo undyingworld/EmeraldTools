@@ -1,0 +1,13 @@
+{
+  "category": "equipment",
+  "result": "emeraldtools:copper_hoe",
+  "shape": [
+    "ee.",
+    ".s.",
+    ".s."
+  ],
+  "ingredients": {
+    "e": "minecraft:copper_ingot",
+    "s": "minecraft:stick"
+  }
+}
