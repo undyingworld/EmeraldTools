@@ -6,4 +6,4 @@ It was primarily made for testing nova's capabilities.
  - [x] Tools (Axe, Pickaxe, Sword, Shovel, Hoe)
  - [x] Recipes
  - [x] Natural generation (in villages, mansions and dungeons)
- - [ ] Armor
+ - [x] Armor
