@@ -10,7 +10,7 @@
     },
     {
       "item": "emeraldtools:emerald_chestplate",
-      "chance": 3,
+      "chance": 2,
       "amount": {
         "min": 1,
         "max": 1
@@ -18,7 +18,7 @@
     },
     {
       "item": "emeraldtools:emerald_leggings",
-      "chance": 3,
+      "chance": 2,
       "amount": {
         "min": 1,
         "max": 1
@@ -27,6 +27,38 @@
     {
       "item": "emeraldtools:emerald_boots",
       "chance": 3,
+      "amount": {
+        "min": 1,
+        "max": 1
+      }
+    },
+    {
+      "item": "emeraldtools:copper_helmet",
+      "chance": 5,
+      "amount": {
+        "min": 1,
+        "max": 1
+      }
+    },
+    {
+      "item": "emeraldtools:copper_chestplate",
+      "chance": 4,
+      "amount": {
+        "min": 1,
+        "max": 1
+      }
+    },
+    {
+      "item": "emeraldtools:copper_leggings",
+      "chance": 4,
+      "amount": {
+        "min": 1,
+        "max": 1
+      }
+    },
+    {
+      "item": "emeraldtools:copper_boots",
+      "chance": 5,
       "amount": {
         "min": 1,
         "max": 1

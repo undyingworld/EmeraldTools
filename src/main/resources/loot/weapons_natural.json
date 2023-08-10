@@ -1,7 +1,15 @@
 {
   "items": [
     {
-      "item": "emeraldtools:emerald_pickaxe",
+      "item": "emeraldtools:emerald_sword",
+      "chance": 3,
+      "amount": {
+        "min": 1,
+        "max": 1
+      }
+    },
+    {
+      "item": "emeraldtools:emerald_axe",
       "chance": 6,
       "amount": {
         "min": 1,
@@ -9,16 +17,16 @@
       }
     },
     {
-      "item": "emeraldtools:emerald_hoe",
-      "chance": 10,
+      "item": "emeraldtools:copper_sword",
+      "chance": 9,
       "amount": {
         "min": 1,
         "max": 1
       }
     },
     {
-      "item": "emeraldtools:emerald_shovel",
-      "chance": 10,
+      "item": "emeraldtools:copper_axe",
+      "chance": 12,
       "amount": {
         "min": 1,
         "max": 1
@@ -30,7 +38,7 @@
     "chests/jungle_temple",
     "chests/pillager_outpost",
     "chests/woodland_mansion",
-    "chests/village/village_toolsmith",
+    "chests/village/village_weaponsmith",
     "chests/abandoned_mineshaft"
   ]
 }

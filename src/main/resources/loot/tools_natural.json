@@ -1,0 +1,60 @@
+{
+  "items": [
+    {
+      "item": "emeraldtools:emerald_pickaxe",
+      "chance": 3,
+      "amount": {
+        "min": 1,
+        "max": 1
+      }
+    },
+    {
+      "item": "emeraldtools:emerald_hoe",
+      "chance": 7,
+      "amount": {
+        "min": 1,
+        "max": 1
+      }
+    },
+    {
+      "item": "emeraldtools:emerald_shovel",
+      "chance": 9,
+      "amount": {
+        "min": 1,
+        "max": 1
+      }
+    },
+    {
+      "item": "emeraldtools:copper_pickaxe",
+      "chance": 12,
+      "amount": {
+        "min": 1,
+        "max": 1
+      }
+    },
+    {
+      "item": "emeraldtools:copper_hoe",
+      "chance": 17,
+      "amount": {
+        "min": 1,
+        "max": 1
+      }
+    },
+    {
+      "item": "emeraldtools:copper_shovel",
+      "chance": 18,
+      "amount": {
+        "min": 1,
+        "max": 1
+      }
+    }
+  ],
+  "whitelist": [
+    "chests/igloo_chest",
+    "chests/jungle_temple",
+    "chests/pillager_outpost",
+    "chests/woodland_mansion",
+    "chests/village/village_toolsmith",
+    "chests/abandoned_mineshaft"
+  ]
+}
